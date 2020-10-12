@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602458273242.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4123112004",
+    "id" : "B16CF57D",
+    "lastKnownWriteTime" : 1602469213,
+    "last_content_update" : 1602469213104,
+    "path" : "~/Hello-world/Arbol0.R",
+    "project_path" : "Arbol0.R",
+    "properties" : {
+        "cursorPosition" : "26,65",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
