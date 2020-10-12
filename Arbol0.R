@@ -25,3 +25,4 @@ MC         <- table(Test[, "churn"],Prediccion) # Matriz de Confusión
 # ---------------------------------------------------------------------------
 rpart.plot(ModeloArbol, type=1, extra=100,cex = .7,
            box.col=c("gray99", "gray88")[ModeloArbol$frame$yval])
+#Un cambio ficticio
